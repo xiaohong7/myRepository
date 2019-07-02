@@ -17,7 +17,6 @@
 - 这个仓库会存放，git对我们项目代码进行备份的文件
 - 在项目目录右键打开 git bash
 - 命令: `git init`
- C:/Users/xyh/Desktop/chapter05/.git/
 
 
 ## 自报家门
@@ -78,7 +77,9 @@
 ## 分支
 - 默认是有一个主分支master
 
-### 创建分支
+主分支：
+master
+### git创建分支
 - `git branch dev`
     + 创建了一个dev分支
     + 在刚创建时dev分支里的东西和master分支里的东西是一样的
